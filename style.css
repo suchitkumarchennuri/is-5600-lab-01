@@ -61,8 +61,6 @@ header {
 
 
 }
-
-
 header div {
   margin: 100px 0 0 80px;
   color: white; /* we can use the cascading nature of CSS to set the color for all the elements within the div */
